@@ -17,5 +17,6 @@ Create a native app that allows users to view search results from the free OMDB 
 - Some core dependencies have been provided in a buildSrc module.
 - Documentation comments are encouraged.
 
+## Boilerplate
 
-
+We have included a boilerplate application in the repository to help get setup with a project.
